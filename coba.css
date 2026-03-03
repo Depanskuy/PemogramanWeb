@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: rgb(16, 240, 240);
+    font-family: 'Courier New', Courier, monospace;
+    font-style : normal;
+}
+
+form{
+    background-color: rgb(239, 244, 245);
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    border-radius: 20px;
+}
+
+input, select {
+    border: none;
+    border-bottom: 3px solid #edefe8;
+    background-color: rgb(12, 231, 243);
+    width: 100%;
+    padding: 1em;
+    border-radius: 10%;
+}
+
+button{
+    background-color: rgb(240, 235, 235);
+    color: rgb(226, 127, 27);
+    border ;none
+    padding: 0,5em 1,5em;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+label{
+    display: none;
+}
